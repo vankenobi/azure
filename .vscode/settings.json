@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/c24f6959-bdac-4e13-acea-8886418fe0c4/resourceGroups/21.03.2022/providers/Microsoft.Web/sites/musakucuk",
+    "appService.deploySubpath": "."
+}
